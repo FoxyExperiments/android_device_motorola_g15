@@ -1,0 +1,47 @@
+# Audio
+vendor.audio.volume_factor_and_limit=25,25,1,1
+
+# Display
+persist.sys.sf.native_mode=1
+
+# Miscellaneous
+persist.jcf.setupwizard.shutdown=true
+persist.vendor.pms_removable=1
+persist.wm.extensions.enabled=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.camera.aux.packagelist=com.myos.camera,com.ape.factory,com.motorola.motocit,com.ape.camfaccalibration,com.mediatek.camera,com.android.settings,com.bv.LCTestTool,com.ape.mtbf,android.virtualdevice.cts.camera,net.sourceforge.opencamera
+ro.camera.expose_aux=1
+ro.camera.physical_num=3
+ro.com.android.prov_mobiledata=false
+ro.com.google.acsa=true
+ro.com.google.gmsversion=15_202411
+ro.com.google.ime.number_row=true
+ro.com.google.lens.oem_camera_package=com.myos.camera
+ro.com.google.lens.oem_image_package=com.myos.camera
+ro.config.alarm_alert=Helium.ogg
+ro.config.alarm_vol_default=6
+ro.config.alarm_vol_steps=7
+ro.config.media_vol_default=5
+ro.config.notification_sound=Hello.ogg
+ro.config.ringtone=Moto.ogg,Moto.ogg
+ro.config.vc_call_vol_default=6
+ro.config.vc_call_vol_steps=8
+ro.dalvik.vm.enable_uffd_gc=true
+ro.moto.general.colors=true
+ro.moto.general.hbm=true
+ro.moto.general.low_storage_warning=true
+ro.moto.general.sidebar=true
+ro.moto.general.usb.connection=true
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.build.16k_page.enabled=false
+ro.product.build.no_bionic_page_size_macro=true
+ro.product.carrier.language=true
+ro.product.cpu.pagesize.max=16384
+ro.setupwizard.rotation_locked=true
+ro.support_one_handed_mode=true
+ro.vendor.radio.imei.sv=
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.enable_quick_start_flow=true
+setupwizard.theme=glif_v4_light
+

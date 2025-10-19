@@ -1,0 +1,4 @@
+# Miscellaneous
+ro.config.isolated_compilation_enabled=true
+ro.vendor.radio.imei.sv=
+
